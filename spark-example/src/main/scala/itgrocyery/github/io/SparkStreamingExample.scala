@@ -10,7 +10,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
   * @ describe
   *
   */
-object SparkStreamExample {
+object SparkStreamingExample {
 
   def main(args: Array[String]): Unit = {
 
